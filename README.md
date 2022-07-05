@@ -1,6 +1,6 @@
 # ProgramlamayaGiris
 +Programlamaya yeni başlayanlar veya yeni bir dil öğrenenler için örnek kodlar. <br>
-+"ProgramlamayaGiris" yazan yere tıklayarak alt dallara erişebilirsiniz.<br>
++"Programlamaya-Giris" yazan yere tıklayarak alt dallara erişebilirsiniz.<br>
 +Henüz kod örneği bulunmayan alt dallara kendi kodlarınızı yükleyebilirsiniz.<br>
 +Veya halihazırda atılmış kodların farklı dillerdeki karşılıklarını da yükleyebilirsiniz.<br><br>
 
